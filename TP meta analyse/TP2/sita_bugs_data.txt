@@ -1,0 +1,8 @@
+Sitagliptin				
+Study	N PBO	N Sitagliptin	n PBO	n Sitagliptin
+P021	253	238	4	5
+P023	110	205	3	4
+P036	176	179	7	5
+P040	178	352	2	5
+P047	104	102	3	5
+

@@ -1,0 +1,8 @@
+Su				
+Study	N PBO	N SU	n PBO	n SU
+Hoffman, 1994	27	30	0	0
+Segal	65	69	1	2
+Garber, 2002	161	160	3	11
+Schade, 1998	123	126	3	4
+Johnston, 1998	92	92	6	6
+Coniff, 1995	62	66	4	3
