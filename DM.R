@@ -6,7 +6,7 @@ library(metafor)
 
 # Chargement --------------------------------------------------------------
 
-Weight <- read_table2("C:/Users/vivi1/Desktop/Ensai 3A/Meta_Analyse/BDD/Weight.txt")
+Weight <- read_table2("BDD/Weight.txt")
 names(Weight) <- c("s", "nref", "n", "trt", "y", "sdy")
 
 
